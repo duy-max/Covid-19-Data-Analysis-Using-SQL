@@ -3,3 +3,5 @@
 Thêm mới dòng 
 
 Bên A đã thêm nội dung khác.
+Bên B đã thêm nội dung khác.
+giai quyet conflict thanh cong
