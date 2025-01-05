@@ -1,7 +1,7 @@
 Đay la toi
 
-Thêm mới dòng 
-
+Thêm mới dòn
 Bên A đã thêm nội dung khác.
 Bên B đã thêm nội dung khác.
 giai quyet conflict thanh cong
+
